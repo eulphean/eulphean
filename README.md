@@ -1,1 +1,2 @@
-<h3 align="left">Hi there 👋, I'm I'm Amay</h3>
+<h3 align="left">Hey there, Welcome!</h3>
+<p>An award-winning new-media artist, graphics developer, and </p>
