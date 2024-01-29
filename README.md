@@ -1,10 +1,10 @@
 ![One](https://github.com/eulphean/eulphean/assets/4178424/e18f197c-de50-4979-971d-ee065259f4bc)
 
-<blockquote style="color:steelblue">Hey there, it's <span style="background-color:lightyellow">Amay</span> 👋🏼</blockquote>
+> Hey there, it's `Amay` 👋🏼
 <br />
 
-<blockquote style="color:steelblue"><span style="background-color:lightyellow; font-style: italic">A new-media  and frontend graphics engineer</span>.<br/>
-With a background in software engineering and fine art, I enjoy working at the fluid intersection of art & technology. I use software as a tool to sculpt images and data, to create experiences that humanize technology.</blockquote><br>
+>` A new-media artist and frontend graphics engineer`<br/>
+With a background in software engineering and fine art, I enjoy working at the fluid intersection of art & technology. I use software as a tool to sculpt images and data, to create experiences that humanize technology.
 
 <blockquote style="color:steelblue"><span style="text-decoration: underline">More About Me</span>
 <ul>
