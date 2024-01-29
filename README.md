@@ -4,7 +4,7 @@
 <br />
 
 <blockquote style="color:steelblue"><span style="background-color:lightyellow; font-style: italic">A new-media  and frontend graphics engineer</span>.<br/>
-With a background in software engineering and fine art, I enjoy working at the fluid intersection of art & technology. I use software as a tool to sculpt images, materials, and time to create experiences that humanize technology.</blockquote><br>
+With a background in software engineering and fine art, I enjoy working at the fluid intersection of art & technology. I use software as a tool to sculpt images and data, to create experiences that humanize technology.</blockquote><br>
 
 <blockquote style="color:steelblue"><span style="text-decoration: underline">More About Me</span>
 <ul>
