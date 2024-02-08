@@ -1,35 +1,26 @@
-![One](https://github.com/eulphean/eulphean/assets/4178424/e18f197c-de50-4979-971d-ee065259f4bc)
+<>![One](https://github.com/eulphean/eulphean/assets/4178424/e18f197c-de50-4979-971d-ee065259f4bc)
 
-> Hey there, it's `Amay` 👋🏼
+> Hey there, it's `Amay` 👋🏼<br />
+
+>`New-Media Artist and Frontend Graphics Software Engineer`<br/>With a background in software engineering and fine art, I enjoy working at the fluid intersection of art & technology. I use software as a tool to sculpt images and data, to create experiences that humanize technology.
+## **More About Me**<br />
+> As an `interdisciplinary artist`, I get a lot of joy in exploring historical and political subjects, and expressing them through the medium of cutting-edge technologies.
+> - Checkout my visual language in this [portfolio](https://heyzine.com/flip-book/0070a9c08d.html).
+> - Over the years, I've developed works with technologies like `machine learning`, `blockchain`, `augmented reality`, `virtual reality`, `net-art`, and `computer graphics`.
+> - I often collaborate with other amazing artists to produce projects.
+> - Practicing new-media art has made me `fearless` in experimenting with new technologies.
 <br />
 
->`New-Media Artist and Frontend Graphics Software Engineer`<br/>
-With a background in software engineering and fine art, I enjoy working at the fluid intersection of art & technology. I use software as a tool to sculpt images and data, to create experiences that humanize technology.
+> In the industry, I position myself as a `software engineer`, with an expertise in `frontend computer graphics`. 
+> - Checkout my frontend graphics engineering [portfolio](https://heyzine.com/flip-book/fa5164ac35.html).
+> - My recent stack includes `Typescript`, `React.js`, `Three.js`, `React-Three/Fiber`, `Tailwind.css`, and `Material UI`
+> - I also have a strong understanding of `WebGL` fundamentals and write custom `GLSL` for my projects.  
+> - I often use `Blender` to scupt, rig, and animate scences, and bring them to life on the web.
+> - In the past, I've thoroughly worked with `React-Native`, `C++`, and `Python` as well. 
 
-<blockquote style="color:steelblue"><span style="text-decoration: underline">More About Me</span>
-<ul>
-<li>I'm an `interdisciplinary artist` and I get a lot of joy from architecting projects from scratch. I</li>
-<ul>
-    <li>Check out my media art <a style="text-decoration: underline; background-color:lightyellow" href="https://heyzine.com/flip-book/0070a9c08d.html">portfolio</a>.
-    <li>Check out my frontend graphics engineering <a style="text-decoration: underline; background-color:lightyellow" href="https://heyzine.com/flip-book/fa5164ac35.html">portfolio</a>.</>
-</ul>
-<li>In my professional work, I enjoy working in the domain of Computer Graphics for the web.
-    <ul>
-        <li>My recent stack includes <span style="background-color:lightyellow">Typescript</span>, <span style="background-color:lightyellow">Tailwind.css</span>, <span style="background-color:lightyellow">React.js</span>, <span style="background-color:lightyellow">Three.js</span>, and <span style="background-color:lightyellow">React-Three/Fiber</span>.</li>
-        <li>I also dive into <span style="background-color:lightyellow">WebGL</span> and <span style="background-color:lightyellow">GLSL</span>.</li>
-        <li>I'm currently revisiting <span style="background-color:lightyellow">Linear Algebra</span> to sharpen my computer graphics skills.</li>
-        <li>I often use <span style="background-color:lightyellow">Blender</span> to sculpt, rig, and animate scenes, and bring them to life on the web.</li>
-        <li>In the past, I've worked with <span style="background-color:lightyellow">React-Native</span>, <span style="background-color:lightyellow">C++</span>, and <span style="background-color:lightyellow">Python</span>.</li>
-    </ul>
-</li>
-</ul>
-</blockquote><br />
-
-<blockquote>
-<span style="text-decoration: underline">Github Stats</span><br>
+## Github Stats
 <!-- <img src="https://komarev.com/ghpvc/?username=eulphean&label=Profile%20views&color=0e75b6&style=flat" alt="eulphean" /><br /> -->
 Coming soon
-</blockquote><br />
-<blockquote>
-<span style="text-decoration: underline">Favorite Projects</span><br>Coming soon
-</blockquote><br />
+## Favorite Projects
+Coming soo
+
