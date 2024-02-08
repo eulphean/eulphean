@@ -30,8 +30,8 @@
 ## Github `Stats` 💯
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eulphean&label=Profile%20views&color=0e75b6&style=flat" alt="eulphean" /> </p>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eulphean&theme=default&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&show_owner=true" alt="eulphean" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=eulphean&theme=default&hide_border=false" alt="eulphean" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eulphean&theme=default&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&show_owner=true" alt="eulphean" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eulphean&theme=default&hide_border=false" alt="eulphean" width="45%"/>
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulphean&theme=default&show_icons=true&hide_border=false&layout=donut-vertical" />
