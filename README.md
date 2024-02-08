@@ -19,7 +19,7 @@
 > - My recent stack includes `Typescript`, `React.js`, `Three.js`, `React-Three/Fiber`, `Tailwind.css`, and `Material UI`
 > - I also have a strong understanding of `WebGL` fundamentals and write custom `GLSL` for my projects.  
 > - I often use `Blender` to scupt, rig, and animate scences, and bring them to life on the web.
-> - In the past, I've thoroughly worked with `React-Native`, `C++`, and `Python` as well. 
+> - In the past, I've worked with `React-Native`, `C++`, and `Python` as well. 
 
 ## Favorite `Projects` 🤟
 | [![Whale](https://github.com/eulphean/eulphean/assets/4178424/12d4418d-764e-418a-8b1e-987530a3043d)](https://github.com/eulphean/Whale-Watcher)| [![SS](https://github.com/eulphean/eulphean/assets/4178424/95e001bc-4e1f-4360-870e-2d60f637103b)](https://github.com/eulphean/Supersynthesis) | [![Mom](https://github.com/eulphean/eulphean/assets/4178424/0f8c04a2-d4b4-46cc-8880-38f5305f8ed7)](https://github.com/eulphean/momimsafe.live) |
