@@ -20,7 +20,10 @@
 
 ## Github `Stats` 💯
 <!-- <img src="https://komarev.com/ghpvc/?username=eulphean&label=Profile%20views&color=0e75b6&style=flat" alt="eulphean" /><br /> -->
-Coming soon
+WIP
 ## Favorite `Projects` 🤟
-Coming soo
+| [![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8)])https://amaykataria.com)| ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) | ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) |
+| ------------- | ------------- | ------------- |
+| ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) | ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) | ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) |
 
+[![name](link to image on GH)](link to your URL)
