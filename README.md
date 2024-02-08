@@ -28,5 +28,8 @@
 | [![Nest](https://github.com/eulphean/eulphean/assets/4178424/aacfb6f7-f05c-45a7-b23d-a5dd0260d2de)](https://github.com/eulphean/Nest) | [![Groove](https://github.com/eulphean/eulphean/assets/4178424/5a144846-b7a1-4e31-b678-6ee84ad0eee9)](https://github.com/eulphean/Groove-Body) | [![Babble](https://github.com/eulphean/eulphean/assets/4178424/acecedd9-e6a3-4783-96c9-b03edd645edd)](https://github.com/eulphean/Babble) |
 
 ## Github `Stats` 💯
-<!-- <img src="https://komarev.com/ghpvc/?username=eulphean&label=Profile%20views&color=0e75b6&style=flat" alt="eulphean" /><br /> -->
-WIP
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eulphean&label=Profile%20views&color=0e75b6&style=flat" alt="eulphean" /> </p>
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eulphean&" alt="eulphean" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eulphean&show_icons=true&locale=en&layout=compact" alt="eulphean" />
+</p>
