@@ -10,14 +10,14 @@
 > As an `interdisciplinary artist`, I get a lot of joy in exploring historical and political subjects, and expressing them through the medium of cutting-edge technologies.
 > - Checkout my visual language in this [portfolio](https://heyzine.com/flip-book/0070a9c08d.html).
 > - Over the years, I've developed works with technologies like `machine learning`, `blockchain`, `augmented reality`, `virtual reality`, `net-art`, and `computer graphics`.
-> - I often collaborate with other amazing artists to produce projects.
 > - Practicing new-media art has made me `fearless` in experimenting with new technologies.
+> - I often collaborate with other amazing artists to produce projects.
 <br />
 
 > In the industry, I position myself as a `software engineer`, with an expertise in `frontend computer graphics`. 
 > - Checkout my frontend graphics engineering [portfolio](https://heyzine.com/flip-book/fa5164ac35.html).
 > - My recent stack includes `Typescript`, `React.js`, `Three.js`, `React-Three/Fiber`, `Tailwind.css`, and `Material UI`
-> - I also have a strong understanding of `WebGL` fundamentals and write custom `GLSL` for my projects.  
+> - I also have a strong understanding of `WebGL` fundamentals and `GLSL` shaders.  
 > - I often use `Blender` to scupt, rig, and animate scences, and bring them to life on the web.
 > - In the past, I've worked with `React-Native`, `C++`, and `Python` as well. 
 
