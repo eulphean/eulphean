@@ -3,12 +3,12 @@
 > Hey there, it's `Amay` 👋🏼
 <br />
 
->`New-media Artist and Frontend Graphics Software Engineer`<br/>
+>`New-Media Artist and Frontend Graphics Software Engineer`<br/>
 With a background in software engineering and fine art, I enjoy working at the fluid intersection of art & technology. I use software as a tool to sculpt images and data, to create experiences that humanize technology.
 
 <blockquote style="color:steelblue"><span style="text-decoration: underline">More About Me</span>
 <ul>
-<li>I'm a <span style="background-color:lightyellow">creator</span> and I get a lot of joy from architecting projects from scratch.</li>
+<li>I'm an `interdisciplinary artist` and I get a lot of joy from architecting projects from scratch. I</li>
 <ul>
     <li>Check out my media art <a style="text-decoration: underline; background-color:lightyellow" href="https://heyzine.com/flip-book/0070a9c08d.html">portfolio</a>.
     <li>Check out my frontend graphics engineering <a style="text-decoration: underline; background-color:lightyellow" href="https://heyzine.com/flip-book/fa5164ac35.html">portfolio</a>.</>
