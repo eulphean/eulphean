@@ -1,4 +1,7 @@
-![One](https://github.com/eulphean/eulphean/assets/4178424/e18f197c-de50-4979-971d-ee065259f4bc)
+
+<p align="center">
+<img src="https://github.com/eulphean/eulphean/assets/4178424/aae0d01d-c355-4156-81dd-6e2f1254a88e"/>
+</p>
 
 ## Hey there, it's `Amay` 👋🏼<br />
 
