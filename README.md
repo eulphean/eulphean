@@ -23,7 +23,7 @@
 WIP
 ## Favorite `Projects` 🤟
 WIP
-| [![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8)])https://amaykataria.com)| ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) | ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) |
+| [![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8)](https://amaykataria.com)| ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) | ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) |
 | ------------- | ------------- | ------------- |
 | ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) | ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) | ![Frame](https://github.com/eulphean/eulphean/assets/4178424/bdcf6317-7b84-48ca-8971-eb9dc15912c8) |
 
