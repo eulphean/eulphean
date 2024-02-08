@@ -3,7 +3,7 @@
 > Hey there, it's `Amay` 👋🏼
 <br />
 
->` New-media Artist and Frontend Graphics Software Engineer`<br/>
+>`New-media Artist and Frontend Graphics Software Engineer`<br/>
 With a background in software engineering and fine art, I enjoy working at the fluid intersection of art & technology. I use software as a tool to sculpt images and data, to create experiences that humanize technology.
 
 <blockquote style="color:steelblue"><span style="text-decoration: underline">More About Me</span>
