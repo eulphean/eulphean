@@ -33,4 +33,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eulphean&theme=default&show_icons=true&hide_border=false&count_private=true&rank_icon=percentile&show_owner=true" alt="eulphean" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eulphean&theme=default&hide_border=false" alt="eulphean" width="50%"/>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulphean&theme=default&show_icons=true&hide_border=false&layout=donut" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulphean&theme=default&show_icons=true&hide_border=false&layout=compact" />
