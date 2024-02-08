@@ -11,7 +11,7 @@
 > - Checkout my visual language in this [portfolio](https://heyzine.com/flip-book/0070a9c08d.html).
 > - Over the years, I've developed works with technologies like `machine learning`, `blockchain`, `augmented reality`, `virtual reality`, `net-art`, and `computer graphics`.
 > - Practicing new-media art has made me `fearless` in experimenting with new technologies.
-> - I often collaborate with other amazing artists to produce projects.
+> - I often collaborate with other amazing artists, engineers, and creators to produce projects.
 <br />
 
 > In the industry, I position myself as a `software engineer`, with an expertise in `frontend computer graphics`. 
