@@ -11,7 +11,7 @@ With a background in software engineering and fine art, I enjoy working at the f
 <li>I'm a <span style="background-color:lightyellow">creator</span> and I get a lot of joy from architecting projects from scratch.</li>
 <ul>
     <li>Check out my media art <a style="text-decoration: underline; background-color:lightyellow" href="https://heyzine.com/flip-book/0070a9c08d.html">portfolio</a>.
-    <li>Check out my frontend graphics engineering <a style="text-decoration: underline; background-color:lightyellow" href="https://heyzine.com/flip-book/7cf75581ec.html">portfolio</a>.</>
+    <li>Check out my frontend graphics engineering <a style="text-decoration: underline; background-color:lightyellow" href="https://heyzine.com/flip-book/fa5164ac35.html">portfolio</a>.</>
 </ul>
 <li>In my professional work, I enjoy working in the domain of Computer Graphics for the web.
     <ul>
