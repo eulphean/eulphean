@@ -8,7 +8,7 @@
 >`New-Media Artist and Frontend Graphics Software Engineer`<br/>With a background in software engineering and fine art, I enjoy working at the fluid intersection of art & technology. I use software as a tool to sculpt images and data, to create experiences that humanize technology.
 ## **More About `Me`🧍**
 > As an `interdisciplinary artist`, I get a lot of joy in exploring historical and political subjects, and expressing them through the medium of cutting-edge technologies.
-> - Checkout my visual language in this [portfolio](https://heyzine.com/flip-book/0070a9c08d.html).
+> - Checkout my visual language in this [portfolio](https://heyzine.com/flip-book/cdcf1de56c.html).
 > - Over the years, I've developed works with technologies like `machine learning`, `blockchain`, `augmented reality`, `virtual reality`, `net-art`, and `computer graphics`.
 > - Practicing new-media art has made me `fearless` in experimenting with new technologies.
 > - I often collaborate with other amazing artists, engineers, and creators.
