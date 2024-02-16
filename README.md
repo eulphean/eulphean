@@ -16,7 +16,8 @@
 
 > In the industry, I position myself as a `software architect`, with an expertise in `frontend computer graphics`. 
 > - Checkout my frontend graphics engineering [portfolio](https://heyzine.com/flip-book/fa5164ac35.html).
-> - My recent stack includes `Typescript`, `React.js`, `Three.js`, `React-Three/Fiber`, `Tailwind.css`, and `Material UI`
+> - I often architect systems from scratch that are inspired from domain-driven design and software architecture principles. 
+> - My frontend stack includes `Typescript`, `React.js`, `Three.js`, `React-Three/Fiber`, `Tailwind.css`, and `Material UI`
 > - I also have a strong understanding of `WebGL` fundamentals and `GLSL` shaders.  
 > - I often use `Blender` to scupt, rig, and animate scenes, and bring them to life on the web.
 > - In the past, I've worked with `React-Native`, `C++`, and `Python` as well. 
