@@ -14,7 +14,7 @@
 > - I often collaborate with other amazing artists, engineers, and creators.
 <br />
 
-> In the industry, I position myself as a `software engineer`, with an expertise in `frontend computer graphics`. 
+> In the industry, I position myself as a `software architect`, with an expertise in `frontend computer graphics`. 
 > - Checkout my frontend graphics engineering [portfolio](https://heyzine.com/flip-book/fa5164ac35.html).
 > - My recent stack includes `Typescript`, `React.js`, `Three.js`, `React-Three/Fiber`, `Tailwind.css`, and `Material UI`
 > - I also have a strong understanding of `WebGL` fundamentals and `GLSL` shaders.  
