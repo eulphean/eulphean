@@ -23,9 +23,9 @@
 > - In the past, I've worked with `React-Native`, `C++`, and `Python` as well. 
 
 ## Favorite `Projects` 🤟
-| [![Whale](https://github.com/eulphean/eulphean/assets/4178424/12d4418d-764e-418a-8b1e-987530a3043d)](https://github.com/eulphean/Whale-Watcher)| [![SS](https://github.com/eulphean/eulphean/assets/4178424/95e001bc-4e1f-4360-870e-2d60f637103b)](https://github.com/eulphean/Supersynthesis) | [![Mom](https://github.com/eulphean/eulphean/assets/4178424/0f8c04a2-d4b4-46cc-8880-38f5305f8ed7)](https://github.com/eulphean/momimsafe.live) |
+| [![Samsara](https://github.com/user-attachments/assets/89254ee9-c5c7-4143-a592-7b8586a67c47)](https://github.com/eulphean/Samsara) | [![Whale](https://github.com/eulphean/eulphean/assets/4178424/12d4418d-764e-418a-8b1e-987530a3043d)](https://github.com/eulphean/Whale-Watcher) | [![SS](https://github.com/eulphean/eulphean/assets/4178424/95e001bc-4e1f-4360-870e-2d60f637103b)](https://github.com/eulphean/Supersynthesis)
 | ------------- | ------------- | ------------- |
-| [![Lost](https://github.com/eulphean/eulphean/assets/4178424/e64bf840-15df-4ba8-acde-32da8ae0f690)](https://github.com/eulphean/The-Lost-Passage) | [![Liarbirds](https://github.com/eulphean/eulphean/assets/4178424/896f725f-8caa-4912-940e-c69b18d0cb63)](https://github.com/eulphean/Liarbirds) | [![Holon](https://github.com/eulphean/eulphean/assets/4178424/6c8112c1-0f60-4f13-808f-56bc1316621b)](https://github.com/eulphean/Holons-And-Holarchy) |
+| [![Mom](https://github.com/eulphean/eulphean/assets/4178424/0f8c04a2-d4b4-46cc-8880-38f5305f8ed7)](https://github.com/eulphean/momimsafe.live) | [![Lost](https://github.com/eulphean/eulphean/assets/4178424/e64bf840-15df-4ba8-acde-32da8ae0f690)](https://github.com/eulphean/The-Lost-Passage) | [![Liarbirds](https://github.com/eulphean/eulphean/assets/4178424/896f725f-8caa-4912-940e-c69b18d0cb63)](https://github.com/eulphean/Liarbirds) |
 | [![Nest](https://github.com/eulphean/eulphean/assets/4178424/aacfb6f7-f05c-45a7-b23d-a5dd0260d2de)](https://github.com/eulphean/Nest) | [![Groove](https://github.com/eulphean/eulphean/assets/4178424/5a144846-b7a1-4e31-b678-6ee84ad0eee9)](https://github.com/eulphean/Groove-Body) | [![Babble](https://github.com/eulphean/eulphean/assets/4178424/acecedd9-e6a3-4783-96c9-b03edd645edd)](https://github.com/eulphean/Babble) |
 
 ## Github `Stats` 💯
